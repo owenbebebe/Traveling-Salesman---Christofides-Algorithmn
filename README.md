@@ -11,7 +11,7 @@ However could not run the larger input files due to large runtime.
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>C++</b> 
+- <b>Python3</b> 
 
 <h2>Environments Used </h2>
 
